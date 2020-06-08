@@ -20,6 +20,7 @@ end
 def using_delete(array, string)
   array.delete(string)
 end
+array = ["Johnny 5", "R2D2", "Robocop"]
 def using_delete_at (array, integer)
-  array.delete(integer)
+  array.delete(2, integer)
 end 
