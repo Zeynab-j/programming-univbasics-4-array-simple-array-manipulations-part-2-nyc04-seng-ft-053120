@@ -6,5 +6,5 @@ end
 
 array = [ "Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
 def using_insert(array, element)
-  array.insert(4, "element")
+  array.insert(4, "python")
 end
